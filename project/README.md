@@ -62,11 +62,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Process to work into this projects
-# A crypto invest platform for all
-| Clone the repository: git@github.com:imhayatunnabi/Stakein-Crypt-Invest.git
-| run composer update or composer update --ignore-platform-reqs
-| create database in your database
-| run cp .env.example .env
-| run php artisan key:generate
-| set database into .env file
-| run php artisan serve
+
+## A crypto invest platform for all
+
+| Clone the repository: git@github.com:imhayatunnabi/Stakein-Crypt-Invest.git <br>
+| run composer update or composer update --ignore-platform-reqs <br>
+| create database in your database <br>
+| run cp .env.example .env <br>
+| run php artisan key:generate <br>
+| set database into .env file <br>
+| run php artisan serve <br>
